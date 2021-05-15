@@ -1,0 +1,12 @@
+.btn__btn {
+   background-color: black;
+}
+.btn__btn:hover {
+   color: black;
+   background-color: white;
+}
+.header {
+   background-color: royalblue;
+   color: white;
+}
+
